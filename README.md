@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I am Alen Abraham
 
-I am an Electronics and Communication Engineering graduate who is interested to work in the software domain. 
-A UI/UX Designer and an aspiring developer who also got some interest in security.
-Interested in learning and experimenting various domains and tech stacks. 
+<p>I am an Electronics and Communication Engineering graduate who is interested to work in the software domain.</p>
+<p>A UI/UX Designer and an aspiring developer who also got some interest in security.</p>
+<p>Interested in learning and experimenting various domains and tech stacks.</p> 
 
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
