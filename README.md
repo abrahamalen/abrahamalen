@@ -2,9 +2,9 @@
 
 #### <p align = "center"> UI/UX Designer | Aspiring Developer | Tech-Enthusiast </p>
 
-🧰 Toolbox
+### 🧰 Toolbox
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "Figma Logo" width = "50px" height = "50px" />
+<img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> 
 
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
