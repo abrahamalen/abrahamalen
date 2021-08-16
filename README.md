@@ -2,9 +2,15 @@
 
 #### <p align = "center"> UI/UX Designer | Aspiring Developer | Tech-Enthusiast </p>
 
-### 🧰 Toolbox
+### <p align = "center">🧰 Toolbox </p>
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> 
+<div align = "center">
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "Figma Logo" width = "40px" height = "40px" />
+</div> 
+  <div align = "center"> 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt = "Figma Logo" width = "40px" height = "40px" /> <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt = "Figma Logo" width = "40px" height = "40px" /> 
+</div>
 
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
