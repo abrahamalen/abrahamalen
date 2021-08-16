@@ -2,6 +2,10 @@
 
 #### <p align = "center"> UI/UX Designer | Aspiring Developer | Tech-Enthusiast </p>
 
+🧰 Toolbox
+
+<img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "Figma Logo" width = "50px" height = "50px" />
+
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
