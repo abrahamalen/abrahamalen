@@ -1,6 +1,6 @@
 ## <p align = "center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I am Alen Abraham! </p>
 
-##### <p align = "center"> UI/UX Designer | Aspiring Developer | Tech-Enthusiast </p>
+### <p align = "center"> UI/UX Designer | Aspiring Developer | Tech-Enthusiast </p>
 
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
