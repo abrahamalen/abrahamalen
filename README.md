@@ -1,10 +1,13 @@
 ### <p>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >, I am Alen Abraham! </p>
+#### Designer | developer
+A designer who likes to code and develop designs into real-world applications.
 
-##### <p> UI/UX Designer | Aspiring Developer | Tech-Enthusiast </p>
+- 🔭 I’m currently working on this page. 
 
 
 
-<p>Feel free to reach out me at: alenabraham4874@gmail.com</p>
+
+
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
