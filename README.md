@@ -1,5 +1,5 @@
 ### <p>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >, I am Alen Abraham! </p>
-#### Designer | developer
+#### Designer | Developer
 A designer who likes to code and develop designs into real-world applications.
 
 - 🔭 I’m currently working on this page. 
