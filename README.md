@@ -1,10 +1,29 @@
-<img src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80" style="width:100%; height:500px;"> 
-<p>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >, I am Alen Abraham! </p>
-<p>Designer | developer</p>
+<h1 align="center">Hi 👋, I'm Alen</h1>
+<h3 align="center">Designer who likes to develop designs into real-world applications.</h3>
 
-A designer who likes to code and develop designs into real-world applications.
+<p align="left"> <a href="https://twitter.com/op__trojan" target="blank"><img src="https://img.shields.io/twitter/follow/op__trojan?logo=twitter&style=for-the-badge" alt="op__trojan" /></a> </p>
 
-- 🌱 I’m currently learning Front-end development.
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👯 I’m looking to collaborate on **Front-end Projects**
+
+- 🤝 I’m looking for help with **Web Development**
+
+- 💬 Ask me about **anything really :)**
+
+- 📫 How to reach me **alenabraham@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/op__trojan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="op__trojan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alenabraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alenabraham" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
 
 
 
