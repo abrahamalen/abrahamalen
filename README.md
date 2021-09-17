@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Full-Stack Development**
 
 - 💬 Ask me about **anything really :)**
 
