@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
-<h3 align="center">Designer who likes to code and develop designs into real-world applications.</h3>
+<h3 align="center">An aspiring software engineer and a designer who likes to code and develop designs into real-world applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/op__trojan" target="blank"><img src="https://img.shields.io/twitter/follow/op__trojan?logo=twitter&style=for-the-badge" alt="op__trojan" /></a> </p>
 
