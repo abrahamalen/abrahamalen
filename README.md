@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 
-<p align="center">Error 404 : Not Found!</p>
+<p align="center">Welcome to my Github profile</p>
 
 **Feel free to reach out me at alenabraham@hotmail.com**
 
