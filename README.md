@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alen</h1>
+### Hi 👋, I'm Alen
 
-<p align="center">Welcome to my Github profile</p>
-
-**Feel free to reach out me at - alenabraham@hotmail.com**  
+A passionate and creative designer and developer from India 🇮🇳, with a strong interest in Open-Source.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrahamalen&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
