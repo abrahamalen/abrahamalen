@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Alen
+[![Linkedin: alenabraham](https://img.shields.io/badge/-Alen%20Abraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alenabraham/)](https://www.linkedin.com/in/alenabraham/)  
 
-An aspiring Software Engineer from India 🇮🇳, with a strong interest in Open-Source. Currenttly exploring the tech-industry, learning and experimenting new technologies. Interested in Web3 stuffs. Write tech blogs on various platforms. Building my tech stack.  
+I'm **Alen Abraham** (he/him). I am an aspiring Software Engineer from India 🇮🇳, with a strong interest in Open-Source. Currenttly exploring the tech-industry, learning and experimenting new technologies. Interested in Web3 stuffs. Write tech blogs on various platforms. Building my tech stack.  
 
 ---
 ### Tech Stack  
