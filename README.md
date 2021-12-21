@@ -16,7 +16,7 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn](https://alenabraham.hashnode.dev/linkedin)
+- [LinkedIn - How to get started?](https://alenabraham.hashnode.dev/linkedin-how-to-get-started)
 - [Web Development Resources series! Part -2](https://alenabraham.hashnode.dev/web-development-resources-series-part-2)
 - [Web Development Resources series! Part -1](https://alenabraham.hashnode.dev/web-development-resources-series-part-1)
 <!-- BLOG-POST-LIST:END -->
