@@ -14,6 +14,11 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrahamalen&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
+### My Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->  
+---
+
 ### :mailbox: How to reach me?
 
 ⦿ See my [Profiles](https://bio.link/alenabraham) :large_blue_circle:  
