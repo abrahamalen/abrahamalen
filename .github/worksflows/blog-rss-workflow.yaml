@@ -1,0 +1,17 @@
+name: Show recent blog posts
+on:
+  schedule:
+    - cron: '12 21 * * *' # Run every day at 9:12 PM
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update readme with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://alenabraham.hashnode.dev/rss.xml"
