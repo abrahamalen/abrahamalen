@@ -1,7 +1,7 @@
 name: Show recent blog posts
 on:
   schedule:
-    - cron: '12 21 * * *' # Run every day at 9:12 PM
+    - cron: '37 09 * * *' # Run every day at 9:12 PM
   workflow_dispatch:
 
 jobs:
