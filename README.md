@@ -1,8 +1,9 @@
+<!-- markdownlint-disable-next-line -->
 <h1 align="center">Hi, I'm Alen 👋</h1>
 
 [![Linkedin](https://img.shields.io/badge/-Alen%20Abraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alenabraham/)](https://www.linkedin.com/in/alenabraham/)  
 
-I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳, with a strong interest in Open-Source. Currenttly exploring the tech-industry, learning and experimenting new technologies. Interested in Web3 stuffs. Write tech blogs on various platforms. Building my tech stack. 💪
+I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳, with a strong interest in Open-Source. Currenttly exploring the tech-industry, learning, and experimenting new technologies. Interested in Web3 stuff. Write tech blogs on various platforms. Building my tech stack. 💪
 
 ---
 
@@ -18,7 +19,6 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 
 ---
 
-
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [LinkedIn - How to get started?](https://alenabraham.hashnode.dev/linkedin-how-to-get-started)
@@ -29,7 +29,7 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 
 ### :mailbox: How to reach me?
 
-⦿ See my [Profiles](https://bio.link/alenabraham) :large_blue_circle:  
+⦿ Check out all of my [profiles](https://bio.link/alenabraham) :large_blue_circle:  
 ⦿ Connect with me on [Linkedin](https://www.linkedin.com/in/alenabraham) :man_technologist:  
 ⦿ Follow me on [Twitter](https://twitter.com/op__trojan) :bird:  
 ⦿ Shoot me an [Email](mailto:alenabraham@hotmail.com) :inbox_tray:
