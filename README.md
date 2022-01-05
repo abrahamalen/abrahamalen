@@ -21,6 +21,7 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Youtube Channels to Learn UI/UX Design.](https://alenabraham.hashnode.dev/best-youtube-channels-to-learn-uiux-design)
 - [LinkedIn - How to get started?](https://alenabraham.hashnode.dev/linkedin-how-to-get-started)
 - [Web Development Resources series! Part -2](https://alenabraham.hashnode.dev/web-development-resources-series-part-2)
 - [Web Development Resources series! Part -1](https://alenabraham.hashnode.dev/web-development-resources-series-part-1)
