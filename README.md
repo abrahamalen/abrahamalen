@@ -13,12 +13,6 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 
 ---
 
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abrahamalen&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hugo version error while deploying.](https://alenabraham.hashnode.dev/hugo-version-error-while-deploying)
@@ -34,7 +28,13 @@ I'm **Alen Abraham** (he/him), an aspiring Software Engineer from India 🇮🇳
 ⦿ Check out all of my [profiles](https://bio.link/alenabraham) :large_blue_circle:  
 ⦿ Connect with me on [Linkedin](https://www.linkedin.com/in/alenabraham) :man_technologist:  
 ⦿ Follow me on [Twitter](https://twitter.com/op__trojan) :bird:  
-⦿ Shoot me an [Email](mailto:alenabraham@hotmail.com) :inbox_tray:
+⦿ Shoot me an [Email](mailto:alenabraham@hotmail.com) :inbox_tray:  
+
+---
+
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abrahamalen&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
