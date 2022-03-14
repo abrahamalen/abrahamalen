@@ -15,11 +15,11 @@ I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer fro
 
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Big O notation explained: DSA-01](https://alenabraham.hashnode.dev/big-o-notation-explained-dsa-01)
 - [Hugo version error while deploying.](https://alenabraham.hashnode.dev/hugo-version-error-while-deploying)
 - [Best Youtube Channels to Learn UI/UX Design.](https://alenabraham.hashnode.dev/best-youtube-channels-to-learn-uiux-design)
 - [LinkedIn - How to get started?](https://alenabraham.hashnode.dev/linkedin-how-to-get-started)
 - [Web Development Resources series! Part -2](https://alenabraham.hashnode.dev/web-development-resources-series-part-2)
-- [Web Development Resources series! Part -1](https://alenabraham.hashnode.dev/web-development-resources-series-part-1)
 <!-- BLOG-POST-LIST:END -->
 ---
 
