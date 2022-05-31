@@ -38,7 +38,9 @@ I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer fro
 
 ---
 
-<!--START_SECTION:activity-->
+### Recent Activity
+<!--START_SECTION:activity-->  
+<!--END_SECTION:activity-->
 
 <!--
 **Alenabraham07/Alenabraham07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
