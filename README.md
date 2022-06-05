@@ -38,11 +38,11 @@ I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer fro
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 🎉 Merged PR [#2](https://github.com/abrahamalen/alen-abraham.github.io/pull/2) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-2. 🗣 Commented on [#1045](https://github.com/jupyter-naas/awesome-notebooks/issues/1045) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-3. 💪 Opened PR [#1045](https://github.com/jupyter-naas/awesome-notebooks/pull/1045) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-4. 🎉 Merged PR [#1038](https://github.com/jupyter-naas/awesome-notebooks/pull/1038) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-5. ❗️ Closed issue [#988](https://github.com/jupyter-naas/awesome-notebooks/issues/988) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+1. 🗣 Commented on [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+2. 🎉 Merged PR [#2](https://github.com/abrahamalen/alen-abraham.github.io/pull/2) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+3. 🗣 Commented on [#1045](https://github.com/jupyter-naas/awesome-notebooks/issues/1045) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+4. 💪 Opened PR [#1045](https://github.com/jupyter-naas/awesome-notebooks/pull/1045) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+5. 🎉 Merged PR [#1038](https://github.com/jupyter-naas/awesome-notebooks/pull/1038) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
 <!--END_SECTION:activity-->
 
 <!--
