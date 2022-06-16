@@ -38,11 +38,11 @@ I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer fro
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 💪 Opened PR [#140](https://github.com/linkedin/school-of-sre/pull/140) in [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
-2. ❗️ Closed issue [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-3. 🗣 Commented on [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-4. 🎉 Merged PR [#2](https://github.com/abrahamalen/alen-abraham.github.io/pull/2) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-5. 🗣 Commented on [#1045](https://github.com/jupyter-naas/awesome-notebooks/issues/1045) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
+1. 🎉 Merged PR [#3](https://github.com/abrahamalen/alen-abraham.github.io/pull/3) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 💪 Opened PR [#140](https://github.com/linkedin/school-of-sre/pull/140) in [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
+3. ❗️ Closed issue [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+4. 🗣 Commented on [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+5. 🎉 Merged PR [#2](https://github.com/abrahamalen/alen-abraham.github.io/pull/2) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 <!--END_SECTION:activity-->
 
 <!--
