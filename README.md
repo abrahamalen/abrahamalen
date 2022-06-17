@@ -15,11 +15,11 @@ I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer fro
 
 ### My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to GitLab &amp; GitLab CI/CD](https://alenabraham.hashnode.dev/an-introduction-to-gitlab-and-gitlab-cicd)
 - [What is Github Actions? How does it simplify CI/CD?](https://alenabraham.hashnode.dev/what-is-github-actions-how-does-it-simplify-cicd)
 - [Big O notation explained: DSA-01](https://alenabraham.hashnode.dev/big-o-notation-explained-dsa-01)
 - [Hugo version error while deploying.](https://alenabraham.hashnode.dev/hugo-version-error-while-deploying)
 - [Best Youtube Channels to Learn UI/UX Design.](https://alenabraham.hashnode.dev/best-youtube-channels-to-learn-uiux-design)
-- [LinkedIn - How to get started?](https://alenabraham.hashnode.dev/linkedin-how-to-get-started)
 <!-- BLOG-POST-LIST:END -->
 ---
 
