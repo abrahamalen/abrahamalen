@@ -38,11 +38,11 @@ I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer fro
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 🗣 Commented on [#283](https://github.com/chatwoot/docs/issues/283) in [chatwoot/docs](https://github.com/chatwoot/docs)
-2. 🎉 Merged PR [#3](https://github.com/abrahamalen/alen-abraham.github.io/pull/3) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-3. 💪 Opened PR [#140](https://github.com/linkedin/school-of-sre/pull/140) in [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
-4. ❗️ Closed issue [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-5. 🗣 Commented on [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+1. 🎉 Merged PR [#4](https://github.com/abrahamalen/alen-abraham.github.io/pull/4) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 🗣 Commented on [#283](https://github.com/chatwoot/docs/issues/283) in [chatwoot/docs](https://github.com/chatwoot/docs)
+3. 🎉 Merged PR [#3](https://github.com/abrahamalen/alen-abraham.github.io/pull/3) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+4. 💪 Opened PR [#140](https://github.com/linkedin/school-of-sre/pull/140) in [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre)
+5. ❗️ Closed issue [#677](https://github.com/luizdepra/hugo-coder/issues/677) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
 <!--END_SECTION:activity-->
 
 <!--
