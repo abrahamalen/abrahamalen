@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Alen%20Abraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alenabraham/)](https://www.linkedin.com/in/alenabraham/)  
 
-I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer from Kerala, India 🇮🇳, with a strong interest in Open-Source. Interested to explore, learn and experiment new technologies. Focusing towards **DevOps**, **Cloud** and **Cloud-native** concepts. Write tech blogs on my website and various other platforms. Building my tech stack. 💪
+I'm **[Alen Abraham](https://alenabraham.me)** (he/him), a Software Engineer from Kerala, India 🇮🇳, with a strong interest in Open-Source. Interested to explore, learn and experiment new technologies. Focusing towards **DevOps**, **Cloud** and **Cloud-native** ecosystems. Write tech blogs on my website and various other platforms.
 
 ---
 
