@@ -33,11 +33,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 🗣 Commented on [#51](https://github.com/lostdesign/linked/issues/51) in [lostdesign/linked](https://github.com/lostdesign/linked)
-2. 🗣 Commented on [#7](https://github.com/jupyter-naas/summer-dashboarding/issues/7) in [jupyter-naas/summer-dashboarding](https://github.com/jupyter-naas/summer-dashboarding)
-3. 🎉 Merged PR [#9](https://github.com/jupyter-naas/summer-dashboarding/pull/9) in [jupyter-naas/summer-dashboarding](https://github.com/jupyter-naas/summer-dashboarding)
-4. 💪 Opened PR [#9](https://github.com/jupyter-naas/summer-dashboarding/pull/9) in [jupyter-naas/summer-dashboarding](https://github.com/jupyter-naas/summer-dashboarding)
-5. 🎉 Merged PR [#5](https://github.com/abrahamalen/alen-abraham.github.io/pull/5) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+1. ❗️ Opened issue [#6](https://github.com/abrahamalen/alen-abraham.github.io/issues/6) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 🗣 Commented on [#51](https://github.com/lostdesign/linked/issues/51) in [lostdesign/linked](https://github.com/lostdesign/linked)
+3. 🗣 Commented on [#7](https://github.com/jupyter-naas/summer-dashboarding/issues/7) in [jupyter-naas/summer-dashboarding](https://github.com/jupyter-naas/summer-dashboarding)
+4. 🎉 Merged PR [#9](https://github.com/jupyter-naas/summer-dashboarding/pull/9) in [jupyter-naas/summer-dashboarding](https://github.com/jupyter-naas/summer-dashboarding)
+5. 💪 Opened PR [#9](https://github.com/jupyter-naas/summer-dashboarding/pull/9) in [jupyter-naas/summer-dashboarding](https://github.com/jupyter-naas/summer-dashboarding)
 <!--END_SECTION:activity-->
 
 <!--
