@@ -27,7 +27,9 @@ I Write tech blogs on my website and various other platforms.
 
 ---
 
-[![Alen's github stats](https://github-readme-stats.vercel.app/api?username=abrahamalen&theme=dark)](https://github.com/abrahamalen) 
+[![Alen's github stats](https://github-readme-stats.vercel.app/api?username=abrahamalen&theme=dark)](https://github.com/abrahamalen)  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrahamalen&theme=github_dark) 
 
 ---
 
