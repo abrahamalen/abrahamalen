@@ -35,7 +35,7 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 💪 Opened PR [#1003](https://github.com/github/india/pull/1003) in [github/india](https://github.com/github/india)
+1. ❗️ Opened issue [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🗣 Commented on [#1176](https://github.com/jupyter-naas/awesome-notebooks/issues/1176) in [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks)
 3. ❗️ Closed issue [#3115](https://github.com/EddieHubCommunity/support/issues/3115) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 4. ❗️ Opened issue [#6](https://github.com/abrahamalen/alen-abraham.github.io/issues/6) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
