@@ -10,11 +10,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Blog Posts from [alenabraham.me](https://alenabraham.me)
 <!-- BLOG-POST-LIST:START -->
+- [Stay Up-to-Date with DevBytes: Your Ultimate Source for Tech News](https://alenabraham.hashnode.dev/stay-up-to-date-with-devbytes-your-ultimate-source-for-tech-news)
 - [An Introduction to GitLab &amp; GitLab CI/CD](https://alenabraham.hashnode.dev/an-introduction-to-gitlab-and-gitlab-cicd)
 - [What is Github Actions? How does it simplify CI/CD?](https://alenabraham.hashnode.dev/what-is-github-actions-how-does-it-simplify-cicd)
 - [Big O notation explained: DSA-01](https://alenabraham.hashnode.dev/big-o-notation-explained-dsa-01)
 - [Hugo version error while deploying.](https://alenabraham.hashnode.dev/hugo-version-error-while-deploying)
-- [Best Youtube Channels to Learn UI/UX Design.](https://alenabraham.hashnode.dev/best-youtube-channels-to-learn-uiux-design)
 <!-- BLOG-POST-LIST:END -->
 ---
 
