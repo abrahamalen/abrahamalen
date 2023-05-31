@@ -35,9 +35,9 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. ❗️ Closed issue [#4](https://github.com/abrahamalen/abrahamalen/issues/4) in [abrahamalen/abrahamalen](https://github.com/abrahamalen/abrahamalen)
+1. 🔒 Closed issue [#4](https://github.com/abrahamalen/abrahamalen/issues/4) in [abrahamalen/abrahamalen](https://github.com/abrahamalen/abrahamalen)
 2. 🗣 Commented on [#4](https://github.com/abrahamalen/abrahamalen/issues/4) in [abrahamalen/abrahamalen](https://github.com/abrahamalen/abrahamalen)
-3. ❗️ Opened issue [#4](https://github.com/abrahamalen/abrahamalen/issues/4) in [abrahamalen/abrahamalen](https://github.com/abrahamalen/abrahamalen)
+3. ❗ Opened issue [#4](https://github.com/abrahamalen/abrahamalen/issues/4) in [abrahamalen/abrahamalen](https://github.com/abrahamalen/abrahamalen)
 4. ❗️ Opened issue [#6](https://github.com/abrahamalen/alen-abraham.github.io/issues/6) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 5. 🗣 Commented on [#51](https://github.com/lostdesign/linked/issues/51) in [lostdesign/linked](https://github.com/lostdesign/linked)
 <!--END_SECTION:activity-->
