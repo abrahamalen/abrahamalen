@@ -35,11 +35,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. ❌ Closed PR [#13](https://github.com/abrahamalen/alen-abraham.github.io/pull/13) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-2. 💪 Opened PR [#13](https://github.com/abrahamalen/alen-abraham.github.io/pull/13) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-3. 🎉 Merged PR [#12](https://github.com/abrahamalen/alen-abraham.github.io/pull/12) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-4. 🗣 Commented on [#12](https://github.com/abrahamalen/alen-abraham.github.io/pull/12#issuecomment-1734836854) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-5. 💪 Opened PR [#12](https://github.com/abrahamalen/alen-abraham.github.io/pull/12) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+1. 🗣 Commented on [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14#issuecomment-1739435989) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 🗣 Commented on [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14#issuecomment-1739426953) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+3. ❌ Closed PR [#13](https://github.com/abrahamalen/alen-abraham.github.io/pull/13) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+4. 💪 Opened PR [#13](https://github.com/abrahamalen/alen-abraham.github.io/pull/13) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+5. 🎉 Merged PR [#12](https://github.com/abrahamalen/alen-abraham.github.io/pull/12) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 <!--END_SECTION:activity-->
 
 <!--
