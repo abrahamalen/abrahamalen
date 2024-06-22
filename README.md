@@ -35,7 +35,7 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. ❗ Opened issue [#15](https://github.com/abrahamalen/alen-abraham.github.io/issues/15) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+1. ❗ Opened issue [#16](https://github.com/abrahamalen/alen-abraham.github.io/issues/16) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 2. 🎉 Merged PR [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 3. 🗣 Commented on [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14#issuecomment-1739435989) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 4. 🗣 Commented on [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14#issuecomment-1739426953) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
