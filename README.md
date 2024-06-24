@@ -35,9 +35,9 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. ❗ Opened issue [#16](https://github.com/abrahamalen/alen-abraham.github.io/issues/16) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-2. 🎉 Merged PR [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-3. 🗣 Commented on [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14#issuecomment-1739435989) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+1. 🎉 Merged PR [#2](https://github.com/abrahamalen/python-django-project/pull/2) in [abrahamalen/python-django-project](https://github.com/abrahamalen/python-django-project)
+2. 🎉 Merged PR [#1](https://github.com/abrahamalen/python-django-project/pull/1) in [abrahamalen/python-django-project](https://github.com/abrahamalen/python-django-project)
+3. ❗ Opened issue [#16](https://github.com/abrahamalen/alen-abraham.github.io/issues/16) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 4. 🗣 Commented on [#14](https://github.com/abrahamalen/alen-abraham.github.io/pull/14#issuecomment-1739426953) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 5. ❌ Closed PR [#13](https://github.com/abrahamalen/alen-abraham.github.io/pull/13) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 <!--END_SECTION:activity-->
