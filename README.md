@@ -35,11 +35,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 🗣 Commented on [#114](https://github.com/lxndrblz/anatole/issues/114#issuecomment-2228992141) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-2. 🗣 Commented on [#13947](https://github.com/docker/for-win/issues/13947#issuecomment-2225189869) in [docker/for-win](https://github.com/docker/for-win)
-3. 🗣 Commented on [#1705](https://github.com/microsoft/devhome/issues/1705#issuecomment-2213142091) in [microsoft/devhome](https://github.com/microsoft/devhome)
-4. 🎉 Merged PR [#3](https://github.com/abrahamalen/python-django-project/pull/3) in [abrahamalen/python-django-project](https://github.com/abrahamalen/python-django-project)
-5. 🗣 Commented on [#3](https://github.com/abrahamalen/python-django-project/pull/3#issuecomment-2200805846) in [abrahamalen/python-django-project](https://github.com/abrahamalen/python-django-project)
+1. 🎉 Merged PR [#17](https://github.com/abrahamalen/alen-abraham.github.io/pull/17) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 🗣 Commented on [#17](https://github.com/abrahamalen/alen-abraham.github.io/pull/17#issuecomment-2352006414) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+3. 🗣 Commented on [#114](https://github.com/lxndrblz/anatole/issues/114#issuecomment-2228992141) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🗣 Commented on [#13947](https://github.com/docker/for-win/issues/13947#issuecomment-2225189869) in [docker/for-win](https://github.com/docker/for-win)
+5. 🗣 Commented on [#1705](https://github.com/microsoft/devhome/issues/1705#issuecomment-2213142091) in [microsoft/devhome](https://github.com/microsoft/devhome)
 <!--END_SECTION:activity-->
 
 <!--
