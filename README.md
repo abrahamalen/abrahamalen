@@ -35,11 +35,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 🔒 Closed issue [#16](https://github.com/abrahamalen/alen-abraham.github.io/issues/16) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-2. 🔒 Closed issue [#15](https://github.com/abrahamalen/alen-abraham.github.io/issues/15) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-3. 🎉 Merged PR [#20](https://github.com/abrahamalen/alen-abraham.github.io/pull/20) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-4. 🎉 Merged PR [#19](https://github.com/abrahamalen/alen-abraham.github.io/pull/19) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-5. 🗣 Commented on [#1705](https://github.com/microsoft/devhome/issues/1705#issuecomment-2213142091) in [microsoft/devhome](https://github.com/microsoft/devhome)
+1. 🎉 Merged PR [#21](https://github.com/abrahamalen/alen-abraham.github.io/pull/21) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 🔒 Closed issue [#16](https://github.com/abrahamalen/alen-abraham.github.io/issues/16) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+3. 🔒 Closed issue [#15](https://github.com/abrahamalen/alen-abraham.github.io/issues/15) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+4. 🎉 Merged PR [#20](https://github.com/abrahamalen/alen-abraham.github.io/pull/20) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+5. 🎉 Merged PR [#19](https://github.com/abrahamalen/alen-abraham.github.io/pull/19) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
 <!--END_SECTION:activity-->
 
 <!--
