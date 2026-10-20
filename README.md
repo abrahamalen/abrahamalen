@@ -35,11 +35,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. 💪 Opened PR [#43](https://github.com/abrahamalen/alen-abraham.github.io/pull/43) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-2. 💪 Opened PR [#42](https://github.com/abrahamalen/alen-abraham.github.io/pull/42) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-3. 💪 Opened PR [#41](https://github.com/abrahamalen/alen-abraham.github.io/pull/41) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-4. 🎉 Merged PR [#10](https://github.com/abrahamalen/eyrie/pull/10) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
-5. 💪 Opened PR [#10](https://github.com/abrahamalen/eyrie/pull/10) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
+1. 💪 Opened PR [#21](https://github.com/abrahamalen/eyrie/pull/21) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
+2. 🎉 Merged PR [#20](https://github.com/abrahamalen/eyrie/pull/20) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
+3. 🎉 Merged PR [#19](https://github.com/abrahamalen/eyrie/pull/19) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
+4. 🎉 Merged PR [#18](https://github.com/abrahamalen/eyrie/pull/18) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
+5. 💪 Opened PR [#20](https://github.com/abrahamalen/eyrie/pull/20) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
 <!--END_SECTION:activity-->
 
 <!--
