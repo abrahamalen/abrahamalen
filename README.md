@@ -35,11 +35,11 @@ I Write tech blogs on my website and various other platforms.
 
 ### Recent Activity
 <!--START_SECTION:activity-->  
-1. ℹ️ Assigned PR [#35](https://github.com/abrahamalen/alen-abraham.github.io/pull/35) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-2. ℹ️ Assigned PR [#34](https://github.com/abrahamalen/alen-abraham.github.io/pull/34) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-3. 🎉 Merged PR [#31](https://github.com/abrahamalen/alen-abraham.github.io/pull/31) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-4. 🎉 Merged PR [#30](https://github.com/abrahamalen/alen-abraham.github.io/pull/30) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
-5. 🎉 Merged PR [#29](https://github.com/abrahamalen/alen-abraham.github.io/pull/29) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+1. 💪 Opened PR [#43](https://github.com/abrahamalen/alen-abraham.github.io/pull/43) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+2. 💪 Opened PR [#42](https://github.com/abrahamalen/alen-abraham.github.io/pull/42) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+3. 💪 Opened PR [#41](https://github.com/abrahamalen/alen-abraham.github.io/pull/41) in [abrahamalen/alen-abraham.github.io](https://github.com/abrahamalen/alen-abraham.github.io)
+4. 🎉 Merged PR [#10](https://github.com/abrahamalen/eyrie/pull/10) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
+5. 💪 Opened PR [#10](https://github.com/abrahamalen/eyrie/pull/10) in [abrahamalen/eyrie](https://github.com/abrahamalen/eyrie)
 <!--END_SECTION:activity-->
 
 <!--
